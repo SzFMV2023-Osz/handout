@@ -1,3 +1,0 @@
-# Kódformázási előírások C# nyelvhez
-
-Work in progress...
