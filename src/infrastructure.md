@@ -1,5 +1,6 @@
 # How to set up the infrastructure
 
+
 - [ ] Create new GitHub Organization
 - Create Teams
     - [ ] Everyone
